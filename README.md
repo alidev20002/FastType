@@ -10,6 +10,7 @@ In this game, you must type words quickly to prevent them from crossing a specif
 - set a custom background image for the game
 - persian and english words
 - Math questions in some levels
+- using rewarded Ads
 
 [Myket download link](https://myket.ir/app/ir.alidev.fasttype)
 
