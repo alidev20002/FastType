@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:background="#404040"
+	android:gravity="center">
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:layout_width="wrap_content"
+		android:text="با بالاترین سرعت تایپ کن"
+		android:textColor="#CCCCCC"
+		android:layout_marginBottom="50dp"
+		android:textStyle="bold"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="شروع"
+		android:id="@+id/play"
+		android:background="@drawable/selector2"
+		android:gravity="center"
+		android:textSize="14sp"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="تنظیم عکس"
+		android:id="@+id/setph"
+		android:background="@drawable/selector4"
+		android:gravity="center"
+		android:textSize="14sp"
+		android:layout_margin="15dp"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="حذف عکس"
+		android:id="@+id/delph"
+		android:background="@drawable/selector"
+		android:gravity="center"
+		android:textSize="14sp"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="ارتباط با سازنده"
+		android:id="@+id/info"
+		android:background="@drawable/selector3"
+		android:layout_margin="15dp"
+		android:gravity="center"
+		android:textSize="14sp"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="نظر در مایکت"
+		android:id="@+id/rate"
+		android:background="@drawable/selector4"
+		android:gravity="center"
+		android:textSize="14sp"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_margin="15dp"
+		android:id="@+id/other"
+		android:background="@drawable/selector"
+		android:gravity="center"
+		android:textSize="14sp"
+		android:text="برنامه های دیگر سازنده"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="راهنما: پایین ترین کلمه رو تایپ کن و بزن روی دکمه قرمز"
+		android:textColor="#959595"
+		android:layout_marginTop="30dp"
+		android:textSize="12sp"/>
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="اگه جمع دو عدد دیدی باید حاصل جمعشون رو بنویسی"
+		android:textSize="12sp"
+		android:textColor="#959595"/>
+
+</LinearLayout>
+
