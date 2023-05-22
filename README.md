@@ -7,8 +7,8 @@ In this game, you must type words quickly to prevent them from crossing a specif
 
 ## Features
 - Save the game at each level
-- set a custom background image for the game
-- persian and english words
+- Set a custom background image for the game
+- Persian and english words
 - Math questions in some levels
 - using rewarded Ads
 
